@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.feng2505664393.golandcontent
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
